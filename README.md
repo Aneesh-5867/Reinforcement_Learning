@@ -1,3 +1,3 @@
 # Reinforcement_Learning
-Coursera: Fundamentals of Reinforcement Learning
+##Coursera: Fundamentals of Reinforcement Learning
 by University of Alberta & Alberta Machine Intelligence Institute
